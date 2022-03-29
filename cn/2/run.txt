@@ -1,0 +1,4 @@
+gedit s2.tcl
+
+sudo ns s2.tcl
+

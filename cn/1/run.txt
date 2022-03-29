@@ -1,0 +1,7 @@
+gedit s1.tcl
+
+sudo ns s1.tcl
+
+gedit s1graph
+
+xgraph -x "Bandwidth(Mbps)" -y "No of packets dropped" -t "performance analysis" s1graph
